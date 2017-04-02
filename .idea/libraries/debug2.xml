@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_aaf64cde9264c7e27801affcf9c49e4a64f79f7d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_53dd2632437d34a359a4db9515c92f17b358f864.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_7c69c03d62511623c54c2d8fdfada8ba622d8c2b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/debug_1170df0de3157f634ff2f4ed807d9e07898d7d5e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_11e827497e919424eda996a2c687c99bace20cf5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_e74fcca0481b09ffae5715b77bee6c7bafbd28cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_02eed538bd46d121e71db55cf1ce63cc6d0ba445.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_9c261e9e737d0c3ecb8ee8390ba7f506f4efa153.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Note-taking/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_99ab61825048cc1ff183672734e192c93babd0ce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

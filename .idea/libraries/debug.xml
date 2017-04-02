@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_4a462a0c7eb419062e4c4b8abf162f7631b0d887.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_6330e712b220cf03f0c93b7a59f43bb5ad866f77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_0ad981cc5fc10a1e93202c903a4451e30da462b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_12611e745edb388d94033b0927c08f93afad3506.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_97603ebab37869e565d4e849a265fd20e21cb81f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_8185054d303e024c4ed695523413473db78fd069.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_d8496bfab6de69701a42fced6db90a8cc95d3dde.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/debug_6ea62d2a1c142660732ab7b90253072324f42b7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SearchTrackingNumber/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_fab54ce0e14ada9daec57fc5d4d8f563397d9a7a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

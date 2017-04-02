@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_b03d42f31d1b182657935983d0304f0ae52bf274.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_3c24ba9317775ed99b2bcbb51475f02a9e3a6d00.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/debug_cd630ad3214e06f069db53862fe487a0eab54d0b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_238ee20f61b54c55bf27c343d0810487e615bff2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_32c604b25239859442552a0566a1ea8940efe91b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_67eff1c9cad160064075a470dd38e44deb20d560.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_e023c4e5de2e2b2d75ff44ad33efb2c961b9f11d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_11e827497e919424eda996a2c687c99bace20cf5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SurfInternet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_6ac473f44035633d8031a4cc4dd63fb798122b21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

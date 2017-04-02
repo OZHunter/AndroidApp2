@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_1b8ad5684cfddb4e5940578b7ddf2da5391ac3e2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_f593248c2d0db79e4ed63bbf6824f508cd04f113.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/debug_d840d8dd5fba2a7767f92b39660e10366bf23f09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_5b913f36bc6b15f1553b3a82b884b4620c245bd8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_1e3b685ae74d2658bd6d89451dbcc98367c98d8c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_d254a53a833f328c43c8021e31fe0e3ae4df033d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_c764ba9fb67ecfa85d701de30caa5068f4a125f2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_b348bada9c52802bc9e1a2e12e09ca2b15d3791f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Myvoice/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_7526102ec7312006be49072b7928638acf7f235d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
